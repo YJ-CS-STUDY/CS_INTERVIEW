@@ -21,11 +21,4 @@
 |트랙잭션 격리수준과 각 수준에서 발생할 수 있는 문제에 대해 설명하라| [Link]()|
 |공유 락과 배타 락의 차이는?| [Link]()|
 |데드락이란 무엇이며 어떻게 발생할까?| [Link]()|
-
 |SQL join 방법에서 대해서 설명하라| [Link](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Join.md)|
-|natural join이란?| [Link]()|
-|natural join이란?| [Link]()|
-|natural join이란?| [Link]()|
-|natural join이란?| [Link]()|
-|natural join이란?| [Link]()|
-|natural join이란?| [Link]()|

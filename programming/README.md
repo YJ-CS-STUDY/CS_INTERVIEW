@@ -2,7 +2,7 @@
 
 <br>
 
-Java
+#### Java
 |Question|Answer|
 |:--------------|:--------------|
 | 자바 8에서 어떠한 변화가 있었는가?| [Link]()|
@@ -26,15 +26,17 @@ Java
 | 추상클래스와 인터페이스의 차이 | [Link]()|
 | non static 멤버와 static 멤버 차이 | [Link]()|
 
+<br>
 
-
-Python
+#### Python
 |Question|Answer|
 |:--------------|:--------------|
 || [Link]()|
 
 
-Linux
+<br>
+
+#### Linux
 |Question|Answer|
 |:--------------|:--------------|
 |심볼릭 링크, 하드링크 차이점| [Link]()|

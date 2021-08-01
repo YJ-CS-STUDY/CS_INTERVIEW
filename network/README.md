@@ -15,7 +15,6 @@
 | HTTP와 HTTPS 차이 | [Link](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md)|
 | HTTP 헤더의 구조에 대해 설명해보세요 | [Link]()|
 | HTTP GET과 POST의 차이는 무엇일까요? | [Link]()|
-
 | Restful API에 대해서 설명해보세요 | [Link]()|
 | 우리가 웹서비스에 접급할 때 어떤 경로를 거치는지 설명하시오 | [Link](https://krksap.tistory.com/1148?category=755546)|
 | 서버에 트래픽이 주어졌을 때 어떻게 응답속도를 개선할 수 있을까? | [Link]()|
